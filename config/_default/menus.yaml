@@ -1,0 +1,30 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Schedule
+    url: '#timetable'
+    weight: 10
+  - name: Topics
+    url: '#projects'
+    weight: 20
+  - name: Assessment
+    identifier: ass
+    weight: 30
+  - name: Portfolio
+    parent: ass
+    url: '/assessment#portfolio'
+    weight: 10
+  - name: Presentation
+    parent: ass
+    url: '/assessment#presentation'
+    weight: 20
+  - name: Essay
+    parent: ass
+    url: '/assessment#essay'
+    weight: 30
+  - name: "<i class='ai ai-piazza'></i>iazza"
+    url: 'https://www.piazza.com/'
+    weight: 90
