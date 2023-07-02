@@ -13,12 +13,29 @@ headless: true
 weight: 25
 
 title: Schedule
-subtitle: Semester 2
+subtitle: Semester 1
 
 design:
 ---
 
 | Week  | Tues. Presenter | Topic (Guide)                                       | Thurs. Presenter | Topic (Guide)                                   |
+|:-----:|:---------------:|:---------------------------------------------------:|:----------------:|:-----------------------------------------------:|
+| 18/9  | Neil Bramley   | [Logistics and Literature Review](slides/LitReview.pdf)  | Neil Bramley | [Presentation Advice](slides/Presentations.pdf) |
+| 25/9  | Neil Bramley                  | [Representation](projects/representation)                | Frank Mollica    | [Process](projects/processes)                   |
+| 2/10  |                  | [Attention](projects/attention) (??)                     |   | [Objects](projects/objects) (??)                |
+| 9/10  |                       | [Biological Motion](projects/motion) (??)                |  | [Categorization](projects/categorization) (??)  |
+| 16/10 |  | [Concepts](projects/concepts) (??)                       |    | [Physical Reasoning](projects/physics) (??)     |
+| 23/10 |  | [Development & Learning](projects/development) (??)      |  | [Causality](projects/causality) (??)            |
+| 30/10 |   | [Ecology](projects/ecology) (??)                         |   | [Events](projects/events) (??)                  |
+| 6/11  |   | [Number](projects/number) (??)                           |  | [Inductive Reasoning](projects/induction) (??)  |
+| 13/11 |   | [Time](projects/temporal) (??)                           |   | [Rationality](projects/rationality) (??)        |
+| 20/11 |     | [Memory](projects/memory) (??)                           |                | [Expertise](projects/expertise) (??)            |
+| 27/11 |                 | [Space](projects/space) (??)                             |    | [Analogical Reasoning](projects/analogy) (??)   |
+| 4/12  |  | [Theory of Mind](projects/tom) (??)                      |        | [Judgment & Decision Making](projects/jdm) (??) |
+
+
+
+<!-- | Week  | Tues. Presenter | Topic (Guide)                                       | Thurs. Presenter | Topic (Guide)                                   |
 |:-----:|:---------------:|:---------------------------------------------------:|:----------------:|:-----------------------------------------------:|
 | 23/1  | Frank Mollica   | [Model Evaluation](slides/Model_Evaluation.pdf) <br> [Read This](https://psyarxiv.com/rybh9/)  | Frank Mollica    | Presentation Advice 2                             |
 | 30/1  | Z.Wang & J.You & M.Desblancs     | Attention               | D.Tiron & S.Iversen & S.Droop    | Social Cognition                             |
@@ -28,7 +45,7 @@ design:
 | 27/2  | Z.Shi & C.Qian & K.Patel         | Language                | H.Zhang & C.Zhou & Y.Li          | Causality                             |
 | 6/3   | J.Doran & Y.Xiao                 | Language Learning       | M.Norris & S.d.Souza & R.Sakalle | Memory                             |
 | 13/3  | S.Luan & I.Low & S.Razavi        | Misc                    | O.Liu & M.Galkins & I.Vegner     | Categorization                              |
-| 20/3  | P.Weiss & H.Wang & O.Kwakpovwe        | JDM                    | G.Fairs & Q.Dai & S.Xi     | Affect                              |
+| 20/3  | P.Weiss & H.Wang & O.Kwakpovwe        | JDM                    | G.Fairs & Q.Dai & S.Xi     | Affect                               |-->
 
 
 

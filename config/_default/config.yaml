@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Seminar in Cognitive Modelling # Website name
-baseURL: 'https://mollicaf.github.io/inf-scm' # Website URL
+baseURL: 'https://eco.ppls.ed.ac.uk/~nbramley/msc/scm23/'
+ # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################

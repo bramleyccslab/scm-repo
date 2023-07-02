@@ -18,4 +18,4 @@ subtitle:
 design:
 ---
 
-This website was prepared with accessibility in mind. Accessibility was assessed using WAVE on multiple browsers. Of course standards are not perfect and we aim to make this course accessible to all students. Therefore, please email Frank if you have any accessibility issues that we can try and address.
+This website was prepared with accessibility in mind. Accessibility was assessed using WAVE on multiple browsers. Of course standards are not perfect and we aim to make this course accessible to all students. Therefore, please email Neil if you have any accessibility issues that we can try and address.
