@@ -18,20 +18,20 @@ subtitle: Semester 1
 design:
 ---
 
-| Week  | Tues. Presenter | Topic (Guide)                                       | Thurs. Presenter | Topic (Guide)                                   |
-|:-----:|:---------------:|:---------------------------------------------------:|:----------------:|:-----------------------------------------------:|
-| 18/9  | Neil Bramley   | [Logistics and Literature Review](slides/LitReview.pdf)  | Neil Bramley | [Presentation Advice](slides/Presentations.pdf) |
-| 25/9  | Neil Bramley                  | [Representation](projects/representation)                | Frank Mollica    | [Process](projects/processes)                   |
-| 2/10  |                  | [Attention](projects/attention) (??)                     |   | [Objects](projects/objects) (??)                |
-| 9/10  |                       | [Biological Motion](projects/motion) (??)                |  | [Categorization](projects/categorization) (??)  |
-| 16/10 |  | [Concepts](projects/concepts) (??)                       |    | [Physical Reasoning](projects/physics) (??)     |
-| 23/10 |  | [Development & Learning](projects/development) (??)      |  | [Causality](projects/causality) (??)            |
-| 30/10 |   | [Ecology](projects/ecology) (??)                         |   | [Events](projects/events) (??)                  |
-| 6/11  |   | [Number](projects/number) (??)                           |  | [Inductive Reasoning](projects/induction) (??)  |
-| 13/11 |   | [Time](projects/temporal) (??)                           |   | [Rationality](projects/rationality) (??)        |
-| 20/11 |     | [Memory](projects/memory) (??)                           |                | [Expertise](projects/expertise) (??)            |
-| 27/11 |                 | [Space](projects/space) (??)                             |    | [Analogical Reasoning](projects/analogy) (??)   |
-| 4/12  |  | [Theory of Mind](projects/tom) (??)                      |        | [Judgment & Decision Making](projects/jdm) (??) |
+Week | Tuesday Topic (guide) | Presenter | Day | Time | Thursday topic | Presenter | Day | Time |
+|:---:|:-------------------------------------:|:----------------:|:-----:|:----:|:---------------------------------------------------:|:----------------:|:-----:|:--------:|
+1 | [Intro & Logistics](slides/l1_intro.pdf) |  Neil Bramley | 19/9 | 10&#x2011;12           |  [Presentation Advice & Allocations](slides/l2_presentation.pdf) | Neil Bramley | 21/9  | 10&#x2011;12 |
+2 | [Representation](projects/representation) | Neil Bramley | 26/9 | 10&#x2011;12            | [Processes](projects/processes)  | Frank Mollica |  28/9  | 10-12 |              |
+3 |  [Concepts](projects/concepts) (??)       | ??<br>?? |  3/10  | 10&#x2011;11<br>11&#x2011;12        | [Categorization](projects/categorization) (??)  | ??<br>?? |  5/10  | 10&#x2011;11<br>11&#x2011;12 |
+4 | [Objects & Events](projects/objects) (??) | ??<br>?? |  10/10  | 10&#x2011;11<br>11&#x2011;12 | [Inductive Reasoning](projects/induction) (??) | ??<br>?? | 12/10 | 10&#x2011;11<br>11&#x2011;12 |
+5 | [Causality](projects/causality) (??)      | ??<br>?? |  17/10  | 10&#x2011;11<br>11&#x2011;12      |  [Physical Reasoning](projects/physics) (??)   | ??<br>?? | 19/10 | 10&#x2011;11<br>11&#x2011;12 |
+6 | [Rationality](projects/rationality) (??)  | ??<br>?? |  24/10  | 10&#x2011;11<br>11&#x2011;12 | [Development & Learning](projects/development) (??)  | ??<br>?? | 26/10  | 10&#x2011;11<br>11&#x2011;12 |
+7 | [Time](projects/time) (??)            | ??<br>?? |  31/10 | 10&#x2011;11<br>11&#x2011;12 | [Decision Making](projects/decision) (??) | ??<br>?? |  2/11  | 10&#x2011;11<br>11&#x2011;12 |
+8 | [Number](projects/number) (??)            | ??<br>?? |  2/11 | 10&#x2011;11<br>11&#x2011;12 | [Attention](projects/attention) (??) | ??<br>?? |  9/11  | 10&#x2011;11<br>11&#x2011;12 |
+9 | [Space](projects/space) (??)              | ??<br>?? |  7/11  | 10&#x2011;11<br>11&#x2011;12 | [Memory](projects/memory) (??)  | ??<br>?? | 16/11  | 10&#x2011;11<br>11&#x2011;12 |
+10 | [Theory of Mind](projects/tom) (??)      | ??<br>?? |  14/11  | 10&#x2011;11<br>11&#x2011;12 |  [Analogical Reasoning](projects/analogy) (??)  | ??<br>?? | 23/11 | 10&#x2011;11<br>11&#x2011;12 |
+11 | [Ecology](projects/ecology) (??)         | ??<br>?? |  21/11  | 10&#x2011;11<br>11&#x2011;12 | [Expertise](projects/expertise) (??)  | ??<br>?? | 30/11 | 10&#x2011;11<br>11&#x2011;12 |
+<!-- 12 | [Biological Motion](projects/motion) |  |  |       [Events](projects/events)               |        |  | | -->
 
 
 

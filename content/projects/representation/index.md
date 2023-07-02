@@ -4,10 +4,10 @@
 title: "Representation"
 summary: " "
 authors: []
-tags: [sem1, w1, t, fm]
+tags: [sem1, w2, t, nb]
 categories: []
-date: 2021-04-07T09:39:47+01:00
-
+date: 2023-07-01T09:58:49+01:00
+weight: 1
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-Cognitive Science is the science of mental representations and processes. What are representations?
+Cognitive Science is the science of mental representations and processes. But what *are* representations?
 
 ## Primary Readings
 
@@ -48,8 +48,9 @@ Everyone should read these and be prepared to discuss.
 
 |  |  |
 |:----:|-----:|
-| {{< icon name="scroll" pack="fas" >}} Tolman, E.C. (1948) | Cognitive maps in rats and men. *Image and Environment: Cognitive Mapping and Spatial Behavior*, 1948, 27-50. |
 | {{< icon name="scroll" pack="fas" >}} Markman, A.B. (1998) | Knowledge Representation: Chapter One (on Learn) |
+| {{< icon name="scroll" pack="fas" >}} Tolman, E.C. (1948) | Cognitive maps in rats and men. *Image and Environment: Cognitive Mapping and Spatial Behavior*, 1948, 27-50. |
+
 
 
 ## Secondary Readings

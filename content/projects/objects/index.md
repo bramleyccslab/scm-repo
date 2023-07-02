@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Objects"
+title: "Objects & Events"
 summary: " "
 authors: []
-tags: [sem1, w1, fm, r]
+tags: [sem1, w5, t]
 categories: []
-date: 2021-04-07T09:58:24+01:00
-
+date: 2023-07-01T09:58:49+01:00
+weight: 5
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -40,10 +40,11 @@ url_video: ""
 slides: ""
 ---
 
-Light hits our eyes  and somehow we perceive 3 dimensional ``objects.'' 
+Light hits our eyes  and somehow we perceive 3 dimensional 'objects'. 
 What is an object? 
 In representational systems like programming languages, objects are core structure. 
 Is the same true for our cognitive system? Are objects learned or innate?
+
 
 ## Primary Readings
 

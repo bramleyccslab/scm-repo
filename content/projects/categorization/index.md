@@ -4,10 +4,10 @@
 title: "Categorization"
 summary: " "
 authors: []
-tags: [sem1, w1, nb, r]
+tags: [sem1, w3, r]
 categories: []
-date: 2021-04-07T09:58:49+01:00
-
+date: 2023-07-01T09:58:49+01:00
+weight: 4
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -52,7 +52,7 @@ Everyone should read these and be prepared to discuss.
 |  |  |
 |:----:|-----:|
 | {{< icon name="scroll" pack="fas" >}} Shepard, R. N., Hovland, C. I. and Jenkins, H. M. (1961) | Learning and Memorization of Classifications. *Psychological Monographs: General and Applied*, 75(13), 1. |
-
+| {{< icon name="scroll" pack="fas" >}} Medin, D., & Schaffer, M. (1978). | Context theory of classification. *Psychological Review*, 85, 207-238. |
 
 
 ## Secondary Readings
@@ -62,7 +62,6 @@ The presenter should read and incorporate these.
 |  |  |
 |:----:|-----:|
 | {{< icon name="scroll" pack="fas" >}} Rosch, E., Mervis, C.B., Gray, W., Johnson, D., & Boyes-Braem, P. (1976) | Basic Objects in Natural Categories. *Cognitive Psychology*, 8(3), 382-439. |
-| {{< icon name="scroll" pack="fas" >}} Medin, D., & Schaffer, M. (1978). | Context theory of classification. *Psychological Review*, 85, 207-238. |
 | {{< icon name="scroll" pack="fas" >}} Love, B. C., Medin, D. L., & Gureckis, T. M. (2004). | SUSTAIN: a network model of category learning. *Psychological Review*, 111(2), 309. |
 
 ## Questions under discussion

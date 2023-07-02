@@ -88,12 +88,12 @@ Furthermore, we would like to create a learning environment for our students tha
 - If you feel like your performance in the class is being impacted by your experiences outside of class, please don’t hesitate to come and talk with us. We want to be a resource for you. If you prefer to speak with someone outside of the course, your personal tutor is an excellent resource.
 - We (like many people) are still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to us about it.
 
-## Learning during a pandemic
+<!-- ## Learning during a pandemic
 
 We want to make sure that you learn everything you were hoping to learn from this class. If this requires flexibility, please don’t hesitate to ask.
 
 - You never owe us personal information about your health (mental or physical) but you’re always welcome to talk to us. If we can’t help, we likely know someone who can.
 
-- We want you to learn lots of things from this class, but we primarily want you to stay healthy, balanced, and grounded during this crisis.
+- We want you to learn lots of things from this class, but we primarily want you to stay healthy, balanced, and grounded during this crisis. -->
 
-Note: If you’ve read this far in the syllabus, email Frank a picture of a cute animal with the subject line "I have read the syllabus!".
+Note: If you’ve read this far in the syllabus, email Neil a picture of a cute animal with the subject line "I have read the syllabus!".

@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Events"
+title: "Events [CUT/MERGE?]"
 summary: " "
 authors: []
-tags: [sem1, w3, fm, r]
+tags: [sem1, w12]
 categories: []
-date: 2021-04-07T09:58:54+01:00
-
+date: 2024-07-01T09:58:49+01:00
+weight: 99
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

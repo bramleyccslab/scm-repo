@@ -13,6 +13,7 @@ weight: 30
 title: Topics
 subtitle: 'in Cognitive Science'
 
+
 content:
 
   filters:
@@ -49,6 +50,10 @@ content:
     tag: nb
   - name: Frank Mollica
     tag: fm
+  - name: Maithilee Kunda
+    tag: mk
+
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -63,5 +68,8 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
+
+  
+
 ---
 

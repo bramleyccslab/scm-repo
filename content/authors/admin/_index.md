@@ -5,18 +5,27 @@ email: ""
 highlight_name: false
 interests:
 organizations:
+
+- name: Institute for Language, Cognition and Computation
+  url: https://web.inf.ed.ac.uk/ilcc
+- name: School of Philosophy, Psychology & Language Sciences
+  url: https://www.ed.ac.uk/ppls
 - name: University of Edinburgh
   url: https://www.ed.ac.uk
-role: Year 2022/23
+role: Year 2023/24
 social:
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+ - icon: envelope
+   icon_pack: fas
+   link: mailto:neil.bramley@ed.ac.uk?subject=SCM23
 superuser: true
 title: Seminar in Cognitive Modelling
 ---
 
-This course provides students an opportunity to explore their choice of topic in cognitive science in depth while honing their science communication skills and broadly surveying the foundations of cognitive science. The course aims to expose students to a variety of cognitive models (e.g., connectionist, Bayesian, quantum models) and to discuss and evaluate competing models for similar problems. Students will be expected to present and critique classic and recent research articles from the cognitive modelling literature, chosen from a list provided by the instructor.
+This course provides students an opportunity to explore their choice of topic in cognitive science in depth while honing their science communication skills and broadly surveying the foundations of cognitive science.
+
+The course aims to expose students to a variety of cognitive models and modelling approaches  and to discuss and evaluate competing models for similar problems. For example readings will touch on Bayesian models, rational and resource-rational, heuristic models, neural network approaches, reinforcement learning, graphical models, agent based models, drift diffusion models, hidden Markov models, Markov decision processes, quantum models, large language models, simulator models. 
+
+Students will be expected to present and critique classic and recent research articles from the cognitive modelling literature, chosen from a list provided by the instructor.
 
 Learning objectives:
 
