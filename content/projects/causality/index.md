@@ -49,17 +49,32 @@ In this session, we will think about how to model the cognition involved in lear
 Everyone should read these and be prepared to discuss.
 
 |  |  |
-|:----:|-----:|
-| {{< icon name="scroll" pack="fas" >}} Pearl, J. (2019). The seven tools of causal inference, with reflections on machine learning. | *Communications of the ACM*, 62(3), 54-60.
-{{< icon name="scroll" pack="fas" >}} Bramley, N. R., Lagnado, D. A., & Speekenbrink, M. (2015). | Conservative forgetful scholars: How people learn causal structure through sequences of interventions. *Journal of Experimental Psychology: Learning, Memory and Cognition*, 41(3), 708. |
+|:----:|:-----|
+| Coenen, A., Rehder, B., & Gureckis, T. M. (2015).   |  {{< details "Strategies to intervene on causal systems are adaptively selected. Cognitive psychology, 79, 102-133.">}}
+{{< icon name="robot" pack="fas" >}} {{</details>}} |
+|  Quillien, T., & Lucas, C. G. (2023).  |  {{< details "Counterfactuals and the logic of causal selection. Psychological Review.">}}
+{{< icon name="robot" pack="fas" >}} {{</details>}} |
 
 ## Secondary Readings
 
 The presenter should read and incorporate these.
 
 |  |  |
-|:----:|-----:|
-| {{< icon name="scroll" pack="fas" >}} Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2021). A counterfactual simulation model of causal judgments for physical events. *Psychological Review*, 128(5), 936. |
+|:----:|:-----|
+| {{< icon name="scroll" pack="fas" >}} Pearl, J. (2019). | {{< details "The seven tools of causal inference, with reflections on machine learning. *Communications of the ACM*, 62(3), 54-60.">}}
+{{< icon name="robot" pack="fas" >}} This article explores obstacles in machine learning systems, such as adaptability, explainability, and cause-effect understanding, and proposes the use of causal modeling tools to overcome these challenges. It discusses the three-level hierarchy of causal reasoning, which involves association, intervention, and counterfactual thinking. Causal diagrams and structural causal models are presented as crucial tools for representing and estimating causal effects from data.{{</details>}} |
+{{< icon name="scroll" pack="fas" >}} Bramley, N. R., Lagnado, D. A., & Speekenbrink, M. (2015). | {{< details "Conservative forgetful scholars: How people learn causal structure through sequences of interventions. *Journal of Experimental Psychology: Learning, Memory and Cognition*, 41(3), 708.">}}
+{{< icon name="robot" pack="fas" >}} This article explores how people learn causal structures through interventions. The researchers developed a computer task where participants learned the structure of probabilistic causal systems. They developed models to understand participants' intervention choices and judgments, considering memory and processing limitations. The study found that successful participants used a model that maximized information gain, forgot evidence from earlier trials, and had conservative beliefs. The study highlights the importance of active learning and the use of simple heuristics in causal structure identification.
+{{< icon name="chalkboard-teacher" pack="fas" >}} Like Coenen et al, this is an example of human causal learning through interventions, at rung 2 of Pearl's ladder.{{</details>}} |
+|  Pearl, J. (2000/2009) |  {{< details "Causality: Chapters 1-2.">}}
+{{< icon name="chalkboard-teacher" pack="fas" >}} This important book laid formal/mathmatical groundwork for causal modelling in data science but also use of bayesian networks as representations of structural knowledge about the world, particularly causal, combining this with principles of probabilistic inference and statistical dependence. It is technical but readable.
+{{< icon name="robot" pack="fas" >}} Chapter one of the book introduces the concepts of probabilities, graphs, and causal models. It highlights the importance of probabilities in studying causality, especially in disciplines such as economics, epidemiology, sociology, and psychology. Probability theory helps determine the strength of causal connections and make inferences from noisy observations. The chapter also discusses the use of probabilities in handling exceptions that cannot be processed by deterministic logic. The passage goes on to introduce various concepts within probability theory such as axioms, conditional probabilities, Bayesian inference, joint distribution functions, and graphical models. It explains the properties and terminology associated with probabilities, graphs, and causal models. The chapter also explores the application of probabilities and causal models to hypothesis testing, interventions, and counterfactual analysis.
+
+Overall, these chapters provide a comprehensive introduction to probabilities, graphs, and causal models, highlighting their applications and implications in studying causality.
+
+ {{</details>}} |
+
+
 
 
 

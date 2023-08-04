@@ -47,18 +47,24 @@ In popular culture, we often think of *rationality* as in tension with *intuitio
 Everyone should read these and be prepared to discuss.
 
 |  |  |
-|:----:|-----:|
-| {{< icon name="scroll" pack="fas" >}} Gershman, S. J., Horvitz, E. J., & Tenenbaum, J. B. (2015). | Computational rationality: A converging paradigm for intelligence in brains, minds, and machines. *Science*, 349(6245), 273-278. |
-|  {{< icon name="scroll" pack="fas" >}} Oaksford, M., & Chater, N. (2001). | The probabilistic approach to human reasoning. *Trends in Cognitive Sciences*, 5(8), 349-357. |
+|:----:|:-----|
+|  {{< icon name="scroll" pack="fas" >}} Oaksford, M., & Chater, N. (2001). | {{< details "The probabilistic approach to human reasoning. *Trends in Cognitive Sciences*, 5(8), 349-357. ">}}
+{{< icon name="robot" pack="fas" >}} In this article, the authors discuss the probabilistic approach to human reasoning, specifically in the domains of conditional inference, Wason's selection task, syllogistic reasoning, decision-making, and information processing. They argue that traditional logic-based approaches are insufficient in explaining human reasoning and advocate for the use of conditional probability models and information-gain models that capture the probabilistic nature of everyday reasoning. The article presents various examples and studies that support the probabilistic approach, highlighting how it can account for biases and fallacies observed in human reasoning. It also discusses the limitations and challenges of applying the probabilistic approach, such as the difficulty of storing and retrieving large amounts of world knowledge. The article also touches on the use of brain imaging techniques, such as the event-related optical signal (EROS), to study the relationship between neural activity and cognitive processes.{{</details>}}   |
+<!-- | {{< icon name="scroll" pack="fas" >}} Gershman, S. J., Horvitz, E. J., & Tenenbaum, J. B. (2015). | {{< details "Computational rationality: A converging paradigm for intelligence in brains, minds, and machines. *Science*, 349(6245), 273-278. ">}}
+{{< icon name="robot" pack="fas" >}} {{</details>}}   | -->
 
 ## Secondary Readings
 
 The presenter should read and incorporate these.
 
 |  |  |
-|:----:|-----:|
-|  {{< icon name="scroll" pack="fas" >}} Simon, H. A. (1955).| A behavioral model of rational choice. *The Quarterly Journal of Economics*, 69(1), 99-118. |
-| {{< icon name="scroll" pack="fas" >}} Griffiths, T. L., & Tenenbaum, J. B. (2006). | Optimal predictions in everyday cognition. *Psychological Science*, 17(9), 767-773. |
+|:----:|:-----|
+|  {{< icon name="scroll" pack="fas" >}} Simon, H. A. (1955).| {{< details "A behavioral model of rational choice. *The Quarterly Journal of Economics*, 69(1), 99-118. ">}}
+{{< icon name="robot" pack="fas" >}} In this research paper, Herbert A. Simon discusses the need to revise the traditional economic model of "economic man" as a rational decision-maker. He proposes a behavioral model of rational choice that takes into account the limited information and computational capacities of individuals. Simon emphasizes the importance of considering the decision-maker's characteristics and the specific situation they are in when defining rational behavior. He explores variables that can be controlled and optimized for rational adaptation, as well as fixed variables that must be taken into account. The paper also discusses the application of this model to game theory, decision-making, and chess. Simon suggests simplifications and approximations that align with observed human behavior and addresses objections to simple pay-off functions in certain choice situations. He also highlights the importance of information gathering and refining the mapping of possible outcomes in decision-making. The paper concludes by discussing the implications of this behavioral model for understanding human decision-making in various contexts and the potential normative and descriptive value of this model. {{</details>}}   |
+| {{< icon name="scroll" pack="fas" >}} Lieder, F., & Griffiths, T. L. (2020). | {{< details "Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. *Behavioral and brain sciences*, 43, e1.">}}
+{{< icon name="robot" pack="fas" >}} This article explores the concept of resource-rational analysis, a cognitive modeling paradigm that integrates rational principles with cognitive constraints to better understand and improve human cognition.
+
+The article also discusses the challenges faced by research on human cognition and introduces the concept of bounded optimality as a theory for designing optimal programs for agents with limited resources. It proposes that resource-rational analysis provides a method for understanding how the human mind uses its limited cognitive resources. It suggests that cognitive biases may be a result of limited cognitive resources rather than irrationality, and understanding these limitations can lead to improved AI and a redefinition of cognitive biases. {{</details>}}   |
 
 
 ## Questions under discussion

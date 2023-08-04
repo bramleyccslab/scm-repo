@@ -44,24 +44,35 @@ Cognitive Science is the science of mental representations and processes. But wh
 
 ## Primary Readings
 
-Everyone should read these and be prepared to discuss.
+Everyone should read these and be prepared to discuss:
+
 
 |  |  |
-|:----:|-----:|
-| {{< icon name="scroll" pack="fas" >}} Markman, A.B. (1998) | Knowledge Representation: Chapter One (on Learn) |
-| {{< icon name="scroll" pack="fas" >}} Tolman, E.C. (1948) | Cognitive maps in rats and men. *Image and Environment: Cognitive Mapping and Spatial Behavior*, 1948, 27-50. |
+|:----:|:-----|
+| {{< icon name="scroll" pack="fas" >}} Markman, A.B. (1998) | {{< details "Knowledge Representation: Chapter One (on learn)" >}}
+{{< icon name="robot" pack="fas" >}} The chapter focuses on mental representations and their role in understanding cognitive processes. It explores different ways of thinking about mental entities and their representation, such as goals, beliefs, and concepts, as well as processes like retrieval and reasoning. The chapter emphasizes the importance of understanding mental representations in the study of cognition. The chapter also discusses the role of logical reasoning and its application in tasks such as the Wason selection task. It highlights the different views on logical reasoning ability and the importance of understanding valid rules of inference. Additionally, the chapter explores the concept of representation in relation to temperature. It discusses different analog and symbolic representations and their limitations. The chapter also examines the issue of intentionality and the interpretation of representations in cognitive systems. Overall, the chapter provides insights into the nature of mental representations and their significance in studying cognitive processes. {{</details>}} |
+| {{< icon name="scroll" pack="fas" >}} Tolman, E.C. (1948) | {{< details "Cognitive maps in rats and men. *Image and Environment: Cognitive Mapping and Spatial Behavior*, 1948, 27-50.">}} TO ADD  {{</details>}} |
 
 
 
-## Secondary Readings
 
-The presenter should read and incorporate these.
+
+## Additional Readings
+
+The presenter should read and incorporate these:
 
 |  |  |
-|:----:|-----:|
-| {{< icon name="scroll" pack="fas" >}} van Gelder, T. (1995) | What Might Cognition Be, If Not Computation? *The Journal of Philosophy*, 92(7), 345-381. |
-| {{< icon name="scroll" pack="fas" >}} Gardner, H. (1985) | The Mind's New Science: A history of the cognitive revolution Chapter One (on Learn) |
+|:----:|:-----|
+| {{< icon name="scroll" pack="fas" >}} Larkin & Simon (1987) | {{< details "Why a Diagram is (Sometimes) Worth 10,000 Words. *Cognitive Science*, 11, 65-99.">}}
+ {{< icon name="robot" pack="fas" >}} The article discusses the advantages of using diagrammatic representations in problem-solving. Diagrams can convey implicit information more efficiently than sentential representations. The authors examine the computational efficiency and effectiveness of both types of representations in solving mathematical and physics problems. They argue that diagrams provide explicit information at a single location, enabling smoother problem-solving processes with reduced need for search and computation.
+{{</details>}}| 
+| {{< icon name="scroll" pack="fas" >}} van Gelder, T. (1995) | {{< details "What Might Cognition Be, If Not Computation? *The Journal of Philosophy*, 92(7), 345-381.">}}
+{{< icon name="robot" pack="fas" >}} In this article, the author challenges the dominant computational view of cognition and explores alternative explanations for cognitive processes. The author discusses various research programs, such as connectionism, neurocomputational approaches, and ecological psychology, that offer different conceptions of cognition.
+{{</details>}}|
 
+<!-- | {{< icon name="scroll" pack="fas" >}} Gardner, H. (1985) | {{< details "The Mind's New Science: A history of the cognitive revolution Chapter One (on Learn)">}}
+
+{{< icon name="robot" pack="fas" >}} The passage introduces the book "The Mind's New Science" and provides a brief overview of its content. The book focuses on current cognitive-scientific work and aims to explore fundamental philosophical questions. The author highlights the importance of resolving the computational paradox and meeting the cognitive challenge for the future of cognitive science. The book also discusses the historical background of cognitive science, dating back to classical times, and its emergence as a recognized pursuit in the last few decades.{{</details>}}| -->
 
 ## Questions under discussion
 

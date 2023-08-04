@@ -50,17 +50,29 @@ On the other hand, these models struggle far more than people to *generalize* th
 Everyone should read these and be prepared to discuss.
 
 |  |  |
-|:----:|-----:|
-| {{< icon name="scroll" pack="fas" >}} Chi, M. T. H., Feltovich, P., & Glaser, R. (1981). | Categorization and representation of physics problems by experts and novices. *Cognitive Science*, 5, 121-152. |
+|:----:|:-----|
+| {{< icon name="scroll" pack="fas" >}} Chi, M. T. H., Feltovich, P., & Glaser, R. (1981). | {{< details "Categorization and representation of physics problems by experts and novices. *Cognitive Science*, 5, 121-152.">}}
+{{< icon name="robot" pack="fas" >}} This paper investigates the categorization and representation of physics problems by experts and novices. The results indicate that experts and novices have different problem categories and representations, with experts abstracting physics principles while novices focus on literal features. {{</details>}} |
+| {{< icon name="scroll" pack="fas" >}} Gobet, F., Lane, P. C., Croker, S., Cheng, P. C., Jones, G., Oliver, I., & Pine, J. M. (2001). | {{< details "Chunking mechanisms in human learning. *Trends in Cognitive Sciences*, 5(6), 236-243.">}}
+{{< icon name="robot" pack="fas" >}} The article explores the concept of "chunking," which is the process of organizing information into meaningful units. It discusses how chunking is a crucial mechanism in human perception, learning, and cognition. The article distinguishes between goal-oriented chunking, which is deliberate and strategic, and perceptual chunking, which is automatic and continuous.
+
+The article highlights the importance of computational models, specifically the EPAM/CHREST models, in understanding chunking mechanisms. These models provide a theoretical framework for studying chunking in various domains and allow for the prediction of chunks. The article provides examples of studies that demonstrate perceptual chunking in different contexts, such as grouping primitive stimuli and constructing perceptual chunks in memory. The article further discusses the applications of CHREST in various cognitive domains, including chess expertise and language acquisition. It emphasizes the potential of CHREST in addressing the limitations of early versions of EPAM.{{</details>}} |
+
 
 ## Secondary Readings
 
 The presenter should read and incorporate these.
 
 |  |  |
-|:----:|-----:|
-| {{< icon name="scroll" pack="fas" >}} Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., ... & Hassabis, D. (2016). | Mastering the game of Go with deep neural networks and tree search. *Nature*, 529(7587), 484-489. |
-| {{< icon name="scroll" pack="fas" >}} Gobet, F., Lane, P. C., Croker, S., Cheng, P. C., Jones, G., Oliver, I., & Pine, J. M. (2001). | Chunking mechanisms in human learning. *Trends in Cognitive Sciences*, 5(6), 236-243. |
+|:----:|:-----|
+| {{< icon name="scroll" pack="fas" >}} Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993).  | {{< details "The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363.">}}
+{{< icon name="robot" pack="fas" >}} This article from 1993 discusses the role of deliberate practice in achieving expert performance in various domains. It challenges the notion of innate talent and emphasizes the importance of intense practice for at least 10 years. The article provides evidence on the potential and limits of environmental adaptation and learning.
+
+{{< icon name="chalkboard-teacher" pack="fas" >}} This is the origin of the the idea popularised by Malcolm Gladwell that 10,000 hours in anything will make you an expert. Is this really exactly what Erisson et al found?
+{{</details>}}|
+| {{< icon name="scroll" pack="fas" >}} Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., ... & Hassabis, D. (2016). | {{< details "Mastering the game of Go with deep neural networks and tree search. *Nature*, 529(7587), 484-489.">}}
+{{< icon name="robot" pack="fas" >}} The article discusses the use of deep neural networks and tree search in the development of the computer program AlphaGo, which plays the game of Go. The researchers trained policy and value networks using 30 million positions from the KGS Go server, achieving high accuracy in evaluating board positions and selecting moves. AlphaGo was able to defeat other Go programs and even a human professional player. The article also discusses the techniques and methods used in AlphaGo, including rollout policy, exploiting symmetries, and reinforcement learning. {{</details>}} |
+
 
 ## Questions under discussion
 
