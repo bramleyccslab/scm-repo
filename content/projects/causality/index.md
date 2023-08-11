@@ -50,10 +50,10 @@ Everyone should read these and be prepared to discuss.
 
 |  |  |
 |:----:|:-----|
-| Coenen, A., Rehder, B., & Gureckis, T. M. (2015).   |  {{< details "Strategies to intervene on causal systems are adaptively selected. Cognitive psychology, 79, 102-133.">}}
-{{< icon name="robot" pack="fas" >}} {{</details>}} |
-|  Quillien, T., & Lucas, C. G. (2023).  |  {{< details "Counterfactuals and the logic of causal selection. Psychological Review.">}}
-{{< icon name="robot" pack="fas" >}} {{</details>}} |
+| Coenen, A., Rehder, B., & Gureckis, T. M. (2015).   |  {{< details "Strategies to intervene on causal systems are adaptively selected. *Cognitive Psychology*, 79, 102-133.">}}
+{{< icon name="robot" pack="fas" >}} This research explores different strategies people use when intervening on causal systems to learn about their underlying structure. The study compares two models: the Information Gain (IG) model, which suggests learners should choose interventions that minimize uncertainty, and the Positive Testing Strategy (PTS), which predicts a preference for interventions that activate a high proportion of links in a hypothesis. The findings show that individuals use a mixture of these two strategies and can adaptively alter their behavior based on the success or failure of previous strategies. Time pressure also influences strategy selection.{{</details>}} |
+|  Quillien, T., & Lucas, C. G. (2023).  |  {{< details "Counterfactuals and the logic of causal selection. *Psychological Review*.">}}
+{{< icon name="robot" pack="fas" >}} In this publication, Quillien and Lucas explore the relationship between counterfactuals and causal selection. They propose a counterfactual theory, suggesting that people imagine alternative possibilities and judge causality based on the correlation between factors across these simulations. The theory is supported by empirical data and experiments. The article discusses the use of a computational model, the Counterfactual Effect Size Model (CESM), to explain human judgments in various studies related to causal attributions and judgments. The CESM is found to have a good fit with the data and is able to predict participants' intuitions accurately.{{</details>}} |
 
 ## Secondary Readings
 

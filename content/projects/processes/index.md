@@ -69,18 +69,10 @@ The presenter should read and incorporate these.
 | {{< icon name="scroll" pack="fas" >}} Meyer, D.E. & Schvaneveldt, R. (1976) | {{< details "Meaning, Memory Structure and Mental Processes: People's rapid reactions to words help reveal how stored semantic information is retrieved. *Science*, 192(4234), 27-33">}}
 
 {{< icon name="robot" pack="fas" >}} This passage provides an overview of a research study conducted by experimental psychologists on human learning and memory, with a focus on semantic information retrieval. The study used a reaction time method to measure word recognition and sentence comprehension. The researchers manipulated set relations and sizes of categories in sentences and found that reaction times were faster when the meanings of category names were closely related and slower when the sizes of the categories mentioned were more different from each other. The implications of these findings are discussed in relation to a model of human memory and the effects of category size on reaction times.
-
-<!-- The passage also mentions the influence of semantic relatedness on word recognition and the role of visual feature analyzers and word detectors in this process. Furthermore, the inhibition and facilitation of sentence comprehension based on word meanings are explored, raising questions about the storage and use of semantic information in human memory.
-
-The passage concludes by highlighting the significance of research on mental processes involved in understanding words and sentences, with the potential for further investigation using the reaction-time method to gain a more detailed understanding of information retrieval from memory. -->
 {{</details>}} |
 | {{< icon name="scroll" pack="fas" >}} Shiffrin and Schneider (1977) | {{< details "Controlled and Automatic Human Information Processing: II. Perceptual Learning, Automatic Attending, and a General Theory. *Psychological Review*, 84 (2)">}}
 
 {{< icon name="robot" pack="fas" >}} This article presents a series of experiments that explore the two-process theory of human information processing, specifically focusing on automatic detection and controlled search. The experiments manipulate variables such as frame size, memory-set size, and mapping procedure to investigate the differences between these modes and their impact on attention. The results suggest that automatic attention can be learned in certain paradigms and that the presence of categories can improve performance in controlled search and facilitate the development of automatic detection.
-
-<!-- The article also discusses the framework for understanding human information processing, distinguishing between automatic and controlled processes and emphasizing the role of attention in controlled processes. It highlights the importance of training for automatic processes and the difficulty in suppressing or altering them once learned. The article further explores the coexistence and advantages of both automatic and controlled processing systems.
-
-Overall, the research contributes to the existing theories of search and attention, providing insights on perceptual learning, automatic attending, and the role of categories in information processing. It also raises new research questions and suggests potential applications for these findings in various attention tasks. -->
 {{</details>}} |
 
 ## Questions under discussion

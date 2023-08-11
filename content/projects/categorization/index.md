@@ -58,7 +58,7 @@ Everyone should read these and be prepared to discuss.
 
 ## Secondary Readings
 
-The presenter should read and incorporate these.
+The presenter should read and incorporate at least two of these.
 
 |  |  |
 |:----:|:-----|
@@ -75,7 +75,7 @@ The presenter should read and incorporate these.
 
 {{< icon name="chalkboard-teacher" pack="fas" >}} Another classic. {{</details>}} |
 | {{< icon name="scroll" pack="fas" >}} Love, B. C., Medin, D. L., & Gureckis, T. M. (2004). | {{< details "SUSTAIN: a network model of category learning. *Psychological Review*, 111(2), 309.">}}
-{{< icon name="robot" pack="fas" >}} TODO
+{{< icon name="robot" pack="fas" >}} The document introduces the Sustain model, a network model of category learning that focuses on how humans learn categories from examples. It discusses the model's ability to adapt and recruit additional clusters when faced with surprising events, as well as its ability to discover category substructure. The document highlights the importance of flexibility and category substructure in category learning models. It provides an overview of the basic components and principles of the Sustain model, including its input representation, parameters, and behavior equations. The document also compares Sustain to other category learning models and discusses its implications and contributions.
 {{< icon name="chalkboard-teacher" pack="fas" >}} This is a nice example of a fairly recent "non-parametric" statistical category model that resolves some of the shortcomings of prototype and exemplar models. {{</details>}} |
 
 ## Questions under discussion

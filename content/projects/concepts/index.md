@@ -64,7 +64,12 @@ The presenter should read and incorporate these.
 |  |  |
 |:----:|:-----|
 | {{< icon name="scroll" pack="fas" >}} Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). | {{< details "Human-level concept learning through probabilistic program induction. *Science*, 350(6266), 1332-1338.">}}
-{{< icon name="robot" pack="fas" >}} TODO 
+{{< icon name="robot" pack="fas" >}} 
+
+The article highlights two aspects of human conceptual knowledge that have eluded machine systems: the ability to learn new concepts from just one or a few examples, and the ability to learn rich and flexible representations. The authors propose the Bayesian Program Learning (BPL) framework, which can learn a wide range of visual concepts from just a single example and generalize in ways that are similar to human behavior. BPL represents concepts as stochastic programs and utilizes compositionality, causality, and learning to learn as key ideas.
+
+The authors present a computational model that captures these human learning abilities specifically for simple visual concepts, using handwritten characters from different alphabets as examples. The model represents concepts as simple programs that best explain observed examples, using a Bayesian criterion. In a one-shot classification task, the model achieves human-level performance and outperforms recent deep learning approaches. The model's creative generalization abilities are tested through several "visual Turing tests," which show that in many cases, the model's behavior is indistinguishable from human behavior.
+
 
 {{< icon name="chalkboard-teacher" pack="fas" >}} This is the first "modern" modelling paper on the reading list. It showcases the power of hierarchical Bayesian program induction as a theory of conceptual structure. In being based in symbolic rules/programs it is a successor to Goodman et al (2008), but note the domain is much more naturalistic and the computational cost of fitting this model is far far higher. Note also the dramatic difference in writing style compared to the classic papers, e.g. compressed, concise, visual, snappy but nitty-gritty details hidden in an appendix.
  {{</details>}}|

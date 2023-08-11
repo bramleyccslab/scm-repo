@@ -59,7 +59,7 @@ The experiments yielded contradictory results to the researchers' initial hypoth
 
 ## Secondary Readings
 
-The presenter should read and incorporate these.
+The presenter should read and incorporate at least two of these.
 
 | |  |
 |:----:|:-----|
