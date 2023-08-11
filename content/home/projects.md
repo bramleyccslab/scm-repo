@@ -50,8 +50,8 @@ content:
     tag: nb
   - name: Frank Mollica
     tag: fm
-  - name: Maithilee Kunda
-    tag: mk
+  # - name: Maithilee Kunda
+  #   tag: mk
 
 
 
