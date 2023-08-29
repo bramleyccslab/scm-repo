@@ -47,21 +47,19 @@ On the other hand, these models struggle far more than people to *generalize* th
 
 ## Primary Readings
 
-Everyone should read these and be prepared to discuss.
+Everyone should read these and be prepared to discuss:
 
 |  |  |
 |:----:|:-----|
-| {{< icon name="scroll" pack="fas" >}} Chi, M. T. H., Feltovich, P., & Glaser, R. (1981). | {{< details "Categorization and representation of physics problems by experts and novices. *Cognitive Science*, 5, 121-152.">}}
-{{< icon name="robot" pack="fas" >}} This paper investigates the categorization and representation of physics problems by experts and novices. The results indicate that experts and novices have different problem categories and representations, with experts abstracting physics principles while novices focus on literal features. {{</details>}} |
-| {{< icon name="scroll" pack="fas" >}} Gobet, F., Lane, P. C., Croker, S., Cheng, P. C., Jones, G., Oliver, I., & Pine, J. M. (2001). | {{< details "Chunking mechanisms in human learning. *Trends in Cognitive Sciences*, 5(6), 236-243.">}}
-{{< icon name="robot" pack="fas" >}} The article explores the concept of "chunking," which is the process of organizing information into meaningful units. It discusses how chunking is a crucial mechanism in human perception, learning, and cognition. The article distinguishes between goal-oriented chunking, which is deliberate and strategic, and perceptual chunking, which is automatic and continuous.
+| {{< icon name="scroll" pack="fas" >}} Chi, M. T. H., Feltovich, P., & Glaser, R. (1981). | Categorization and representation of physics problems by experts and novices. *Cognitive Science*, 5, 121-152. | <!-- {{< details "">}}{{< icon name="robot" pack="fas" >}} This paper investigates the categorization and representation of physics problems by experts and novices. The results indicate that experts and novices have different problem categories and representations, with experts abstracting physics principles while novices focus on literal features. {{</details>}} -->
+| {{< icon name="scroll" pack="fas" >}} Gobet, F., Lane, P. C., Croker, S., Cheng, P. C., Jones, G., Oliver, I., & Pine, J. M. (2001). | Chunking mechanisms in human learning. *Trends in Cognitive Sciences*, 5(6), 236-243. |
+<!-- {{< details "">}}{{< icon name="robot" pack="fas" >}} The article explores the concept of "chunking," which is the process of organizing information into meaningful units. It discusses how chunking is a crucial mechanism in human perception, learning, and cognition. The article distinguishes between goal-oriented chunking, which is deliberate and strategic, and perceptual chunking, which is automatic and continuous.
 
-The article highlights the importance of computational models, specifically the EPAM/CHREST models, in understanding chunking mechanisms. These models provide a theoretical framework for studying chunking in various domains and allow for the prediction of chunks. The article provides examples of studies that demonstrate perceptual chunking in different contexts, such as grouping primitive stimuli and constructing perceptual chunks in memory. The article further discusses the applications of CHREST in various cognitive domains, including chess expertise and language acquisition. It emphasizes the potential of CHREST in addressing the limitations of early versions of EPAM.{{</details>}} |
-
+The article highlights the importance of computational models, specifically the EPAM/CHREST models, in understanding chunking mechanisms. These models provide a theoretical framework for studying chunking in various domains and allow for the prediction of chunks. The article provides examples of studies that demonstrate perceptual chunking in different contexts, such as grouping primitive stimuli and constructing perceptual chunks in memory. The article further discusses the applications of CHREST in various cognitive domains, including chess expertise and language acquisition. It emphasizes the potential of CHREST in addressing the limitations of early versions of EPAM.{{</details>}} -->
 
 ## Secondary Readings
 
-The presenter should read and incorporate these.
+The presenter should read and incorporate these:
 
 |  |  |
 |:----:|:-----|

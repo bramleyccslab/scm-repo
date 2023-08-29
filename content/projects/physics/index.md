@@ -45,20 +45,19 @@ From pouring a cup of coffee to playing frogger through the streets, physical re
 
 ## Primary Readings
 
-Everyone should read these and be prepared to discuss.
+Everyone should read these and be prepared to discuss:
 
 |  |  |
 |:----:|:-----|
-| {{< icon name="scroll" pack="fas" >}} McCloskey, M. (1983) | {{< details "Intuitive physics. *Scientific American*, 248(4), 122-131.">}}
-{{< icon name="robot" pack="fas" >}} The article explores the discrepancies between people's intuitive understanding of physics and the principles of Newtonian mechanics. The author presents several studies conducted to uncover the misconceptions and intuitive beliefs that many individuals hold about the motion of objects in various scenarios. {{</details>}}  |
-| {{< icon name="scroll" pack="fas" >}} Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2013) | {{< details "Simulation as an engine of physical scene understanding. *Proceedings of the National Academy of Sciences*, 110(45), 18327-18332. ">}}
-{{< icon name="robot" pack="fas" >}} This research article introduces a model called the Intuitive Physics Engine (IPE) that uses approximate and probabilistic simulations to understand how people perceive and understand physical scenes. The model is based on computer engines used in video games and graphics and fits data from psychophysical tasks, captures illusions and biases, and explains core aspects of human mental models and common-sense reasoning. The article argues that understanding physical scenes is crucial for human interaction with the world and is linked to higher cognitive processes. The IPE model is shown to be able to compute intuitive inferences about scenes and capture how predictions are affected by factors such as object properties and applied forces.{{</details>}}   |
+| {{< icon name="scroll" pack="fas" >}} McCloskey, M. (1983) | Intuitive physics. *Scientific American*, 248(4), 122-131. |<!-- {{< details "">}}{{< icon name="robot" pack="fas" >}} The article explores the discrepancies between people's intuitive understanding of physics and the principles of Newtonian mechanics. The author presents several studies conducted to uncover the misconceptions and intuitive beliefs that many individuals hold about the motion of objects in various scenarios. {{</details>}} -->
+| {{< icon name="scroll" pack="fas" >}} Battaglia, P. W., Hamrick, J. B., & Tenenbaum, J. B. (2013) | Simulation as an engine of physical scene understanding. *Proceedings of the National Academy of Sciences*, 110(45), 18327-18332.  |
+<!-- {{< details "">}}{{< icon name="robot" pack="fas" >}} This research article introduces a model called the Intuitive Physics Engine (IPE) that uses approximate and probabilistic simulations to understand how people perceive and understand physical scenes. The model is based on computer engines used in video games and graphics and fits data from psychophysical tasks, captures illusions and biases, and explains core aspects of human mental models and common-sense reasoning. The article argues that understanding physical scenes is crucial for human interaction with the world and is linked to higher cognitive processes. The IPE model is shown to be able to compute intuitive inferences about scenes and capture how predictions are affected by factors such as object properties and applied forces.{{</details>}}  -->
 <!-- | {{< icon name="scroll" pack="fas" >}} McCloskey, M. (1983) | {{< details "Naive theories of motion. In *Mental Models* (pp. 307-332). Psychology Press.">}}
 {{< icon name="robot" pack="fas" >}} {{</details>}}   | -->
 
 ## Secondary Readings
 
-The presenter should read and incorporate these.
+The presenter should read and incorporate these:
 
 |  |  |
 |:----:|:-----|

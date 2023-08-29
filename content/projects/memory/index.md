@@ -40,26 +40,25 @@ url_video: ""
 slides: ""
 ---
 
-Memory is the process of encoding, storing, and retrieving information when it is needed. This topic will explore the structure and function of memory in cognitive systems and relate it to some of the other themes of the course.
+Memory is the process of encoding, storing, and retrieving information when it is needed. This topic will explore the structure and function of memory in cognitive systems and relate it to the other themes of the course.
 
 ## Primary Readings
 
-Everyone should read these and be prepared to discuss.
+Everyone should read these and be prepared to discuss:
 
 |  |  |
 |:----:|:-----|
-| {{< icon name="scroll" pack="fas" >}} Miller, G. A. (1956). | {{< details "The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81.">}}
-{{< icon name="robot" pack="fas" >}} This highly cited article discusses the concept of information capacity and its implications for human cognition. Miller presents experiments on people's ability to assign numbers to stimuli, which test their capacity to transmit information. Miller introduces information theory and discusses the concept of channel capacity, which represents the maximum amount of information that an observer can provide about a stimulus through absolute judgment.{{</details>}} |
-|  {{< icon name="scroll" pack="fas" >}} Collins, A. M., & Quillian, M. R. (1969). | {{< details "Retrieval time from semantic memory. *Journal of Verbal Learning and Verbal Behavior*, 8(2), 240-247.">}}
-{{< icon name="robot" pack="fas" >}} The researchers, Collins and Quillian, conducted a series of experiments to investigate how people retrieve and process information from semantic memory. They proposed two hypotheses, the "unsuccessful search" hypothesis and the "search and destroy" hypothesis, to explain how individuals make judgments about the truth or falsity of sentences.
+| {{< icon name="scroll" pack="fas" >}} Miller, G. A. (1956). | The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81.| <!-- {{< details "">}}{{< icon name="robot" pack="fas" >}} This highly cited article discusses the concept of information capacity and its implications for human cognition. Miller presents experiments on people's ability to assign numbers to stimuli, which test their capacity to transmit information. Miller introduces information theory and discusses the concept of channel capacity, which represents the maximum amount of information that an observer can provide about a stimulus through absolute judgment.{{</details>}}  -->
+| {{< icon name="scroll" pack="fas" >}} Collins, A. M., & Quillian, M. R. (1969). | Retrieval time from semantic memory. *Journal of Verbal Learning and Verbal Behavior*, 8(2), 240-247. |
+<!-- {{< details "">}}{{< icon name="robot" pack="fas" >}} The researchers, Collins and Quillian, conducted a series of experiments to investigate how people retrieve and process information from semantic memory. They proposed two hypotheses, the "unsuccessful search" hypothesis and the "search and destroy" hypothesis, to explain how individuals make judgments about the truth or falsity of sentences.
 
-The experiments yielded contradictory results to the researchers' initial hypothesis, leading them to develop the "search and destroy" hypothesis. This hypothesis suggests that individuals search for paths that connect the words in a sentence and reject the statement if they are unable to find a path that agrees with it.The researchers also discuss the issue of contradictions and emphasized that determining the falsity of a statement is not a simple process.{{</details>}}|
+The experiments yielded contradictory results to the researchers' initial hypothesis, leading them to develop the "search and destroy" hypothesis. This hypothesis suggests that individuals search for paths that connect the words in a sentence and reject the statement if they are unable to find a path that agrees with it.The researchers also discuss the issue of contradictions and emphasized that determining the falsity of a statement is not a simple process.{{</details>}} -->
 
 
 
 ## Secondary Readings
 
-The presenter should read and incorporate at least two of these.
+The presenter should read and incorporate at least two of these:
 
 | |  |
 |:----:|:-----|
