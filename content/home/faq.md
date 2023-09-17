@@ -24,7 +24,7 @@ No -- you will pass if (and only if) your **combined** mark is above 40%.
 
 ## Can I get an extension for an assignment?
 
-For the portfolio, there are no extensions. You can miss 2 entries, no questions asked.
+For the portfolio, there are no extensions. You can miss 5/20 entries per semester, no questions asked.
 
 For the presentation, there are no extensions. If you are ill, you get one chance to reschedule. That said, [special circumstances](https://www.ed.ac.uk/student-administration/extensions-special-circumstances/students/special-circumstances-explained) happen and are handled by the ITO.
 

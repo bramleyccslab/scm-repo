@@ -56,7 +56,7 @@ Everyone should read these and be prepared to discuss.
 
 ## Secondary Readings
 
-The presenter should read and incorporate these.
+The presenter should read and incorporate at least one of these.
 
 |  |  |
 |:----:|:-----|

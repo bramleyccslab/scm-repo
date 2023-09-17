@@ -4,7 +4,7 @@
 title: "Decision Making"
 summary: " "
 authors: []
-tags: [sem1, w8, t]
+tags: [sem1, w8, r]
 categories: []
 date: 2023-07-01T09:58:49+01:00
 weight: 12

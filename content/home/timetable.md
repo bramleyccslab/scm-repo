@@ -21,7 +21,7 @@ design:
 Week | Tuesday Topic (guide) | Presenter | Day | Time | Thursday topic | Presenter | Day | Time |
 |:---:|:-------------------------------------:|:----------------:|:-----:|:----:|:---------------------------------------------------:|:----------------:|:-----:|:--------:|
 1 | [Intro & Logistics](slides/l1_intro.pdf) |  Neil Bramley | 19/9 | 10&#x2011;11           |  [Presentation Advice & Allocations](slides/l2_presentation.pdf) | Neil Bramley | 21/9  | 10&#x2011;11 |
-2 | [Representation](projects/representation) | Neil Bramley | 26/9 | 10&#x2011;11            | [Processes](projects/processes)  | Frank Mollica |  28/9  | 10-11 |              |
+2 | [Representation](projects/representation) | Neil Bramley | 26/9 | 10&#x2011;11            | [Processes](projects/processes)  | Neil Bramley |  28/9  | 10-11 |              |
 3 |  [Concepts](projects/concepts) (??)       | ??<br>?? |  3/10  | 10&#x2011;11<br>11&#x2011;12        | [Categorization](projects/categorization) (??)  | ??<br>?? |  5/10  | 10&#x2011;11<br>11&#x2011;12 |
 4 | [Objects & Events](projects/objects) (??) | ??<br>?? |  10/10  | 10&#x2011;11<br>11&#x2011;12 | [Inductive Reasoning](projects/induction) (??) | ??<br>?? | 12/10 | 10&#x2011;11<br>11&#x2011;12 |
 5 | [Causality](projects/causality) (??)      | ??<br>?? |  17/10  | 10&#x2011;11<br>11&#x2011;12      |  [Physical Reasoning](projects/physics) (??)   | ??<br>?? | 19/10 | 10&#x2011;11<br>11&#x2011;12 |

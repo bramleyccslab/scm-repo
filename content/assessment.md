@@ -35,8 +35,9 @@ All work submitted for assessment in this course should be carried out following
 
 </center>
 
-Over the course of each semester, you will build a portfolio of reflections on required papers. Each week, you need to submit one (~200 word) entry. An entry should: 
-- briefly summarise the main idea of the article (2-3 sentences), 
+Over the course of each semester, you will build a portfolio of reflections on required papers. Each week, you need to submit two (~100-200 word) entries. An entry should: 
+- assume a reviewer role (see Lecture 1) and/or
+- briefly summarise the main idea of the article (1-2 sentences), 
 - comment on whether or not you believe the conclusions (1-2 sentences) and 
 - justify your belief (2-5 sentences). 
 
@@ -54,11 +55,11 @@ Portfolios will be marked at the end of the semester. Two entries can be missing
 
 Your essay should be based around one or two papers of your choice on a topic in cognitive modelling. It must discuss empirical findings in the context of a computational model or models to a non specialist audience. The easiest way to do this is to find a single paper that includes both empirical and modelling results, but the paper in question should be very meaty, i.e., fairly long and including many experiments or a thorough comparison with other approaches. If you cannot find a suitable single paper, you can look at two shorter papers covering different models of a single phenomenon, or additional experiments testing the same model. Marking will take into account the difficulty of the chosen article(s)/theme(s), but we find that stronger essays tend to be those that focus on a single article. It's okay to choose an older paper, but in that case you should explain how it relates to more recent work.
 
-You must have your choice of paper(s) approved by **11 November 2022**. Post your intended paper(s) on the Piazza note for essay topics. For help choosing papers, see the tips on the website in the first instance. If you are still having trouble, feel free to contact one of the instructors well before the deadline. Essays may not focus on papers that are the subjects of other student presentations. So make sure to look at the essay note to avoid overlapping topics.
+You must have your choice of paper(s) approved by **11 November 2023**. Post your intended paper(s) on the Piazza note for essay topics. For help choosing papers, see the tips on the website in the first instance. If you are still having trouble, feel free to contact one of the instructors well before the deadline. Essays may not focus on papers that are the subjects of other student presentations. So make sure to look at the essay note to avoid overlapping topics.
 
 Whether you choose one or two main papers, your essay should discuss the context of the work (i.e., behavioural findings or philosophical questions addressed), summarise the model(s) and experiment(s), and critically evaluate the work. A good essay will include some material you get from "reading around" the topic. You may also wish to address one or more of the following questions: how does this work relate to other models/approaches we have studied in class? What questions are raised by this work? What further experimental or modelling work might help to address these questions? Your goal is to demonstrate that you can read a cognitive modelling paper, understand its methods, evaluate its claims and place it in context in the field.
 
-Your essay should be between 2500 and 3000 words, including headers and figure captions but not the bibliography, and should be written at a level that an interested but non-specialist reader would understand -- someone who has some background in cognitive science but not necessarily in the specific area you are discussing. Articles in the journal Trends in Cognitive Science, many of which have been included as background readings in this course, are good examples of this level of writing (although the format/content of these articles is different from what you will write). Do not include an abstract.
+Your essay should be between 2000 and 2500 words, including headers and figure captions but not the bibliography, and should be written at a level that an interested but non-specialist reader would understand -- someone who has some background in cognitive science but not necessarily in the specific area you are discussing. Articles in the journal Trends in Cognitive Science, many of which have been included as background readings in this course, are good examples of this level of writing (although the format/content of these articles is different from what you will write). Do not include an abstract.
 
 ## Marking
 ### Basic Criteria
@@ -86,7 +87,7 @@ Your essay should be between 2500 and 3000 words, including headers and figure c
 
 ## Format
 
-- Plan on presenting for 20 mins, followed by discussion/questions. We will give you time indicators and cut you off after 25 minutes regardless of whether you are done; if you aren't, it is likely to affect your mark.
+- Plan on presenting for 30 mins, followed by discussion/questions. We will give you time indicators and cut you off after 35 minutes regardless of whether you are done; if you aren't, it is likely to affect your mark.
 <!-- - After the presentation itself, you should provide 3-4 prompts for class discussion. These can be questions that the target articles leave unanswered, claims in target articles that would be interesting to debate, or anything else that you believe would lead to a fruitful discussion related to the week's topic. 
 - All students in the group should present some material, you can choose how to divide it up.
 - Presentation should be coherent. This means you will need to discuss and plan with your group. You may decide that one person should be primarily responsible for each paper, but to create a coherent presentation, you will all need to be familiar with both papers and will need to discuss the overall presentation of both papers and how they relate to each other.
@@ -96,13 +97,13 @@ Your essay should be between 2500 and 3000 words, including headers and figure c
 
 ## Topic Assignment
 
-For the first semester, topics have been prepared for you. You should have a look at the topics on the website and fill out the survey on the first day of class.
+For the first semester, topics have been prepared for you. You should have a look at the topics on the website and fill out the survey on the first Thursday of class.
 
-For the second semester, you are encouraged to propose your own topic or you can continue with a prepared topic (the website will be updated at the end of Semester 1). 
+For the second semester, you are encouraged to propose your own topic (the website will be updated at the end of Semester 1). 
 
 To propose your own topic:
-- you must select one/two papers for the seminar to read and have them approved by instructor.
-- you must select two/three additional papers for presentation and have them approved by instructor.
+- you must select one/two papers for the seminar to have people read, and have them approved by instructor.
+- typically these should also be the topic of your essay
 - you must draft 2+ questions under discussion
 
 ## Content
@@ -113,10 +114,10 @@ Presentations should include:
 
 Good presentations will also normally include examples, figures, or diagrams to illustrate important concepts or results.
 
-NOTE: 20 minutes is not a long time! You will need to decide how much detail is appropriate, and which information is most important. Please do not try to present everything. Remember, all students in the class should have read the assigned papers. Prepare your background material with this in mind.
+NOTE: 30 minutes is not a long time! You will need to decide how much detail is appropriate, and which information is most important. Please do not try to present everything. Remember, all students in the class should have read the assigned papers. Prepare your background material with this in mind.
 
 ## Logistics
-- You must email us your slides (include the [scm-pres] tag in the subject of your email) by 7 p.m. the night before your presentation. This is both to ensure a backup copy in case your laptop/USB fails, and also for marking purposes. If you do not do this, and you have a technical problem that prevents you from presenting, you will receive a 0 on the assignment. In any case, if we do not have your slides by the 7 p.m. deadline, you will receive a 5 mark penalty on the assignment. We have intentionally set the deadline on the previous night so that you will not be tempted to stay up late working on your slides. Not sleeping enough is a great recipe for a poor presentation.
+- If you don't want to use your own laptop, you must email us us your slides (include the [scm-pres] tag in the subject of your email) by 7 p.m. the night before your presentation. It is a good idea to do this anyway, to ensure a backup copy in case your laptop/USB fails, and also for marking purposes. If you do not do this, and you have a technical problem that prevents you from presenting, you will receive a 0 on the assignment. We have intentionally set the deadline on the previous night so that you will not be tempted to stay up late working on your slides. Not sleeping enough is a great recipe for a poor presentation.
 - When sending slides, PDF files are preferable.
 - If you plan to make extensive use of the whiteboard rather than slides, you must speak to us well ahead of time (at least 4 business days). Some use of the whiteboard is fine without advance notice.
 - Please arrive five minutes early on the day of your presentation, to allow time to set up.
