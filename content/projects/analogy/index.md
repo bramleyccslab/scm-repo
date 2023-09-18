@@ -4,10 +4,10 @@
 title: "Analogy"
 summary: " "
 authors: []
-tags: [sem1, w10, r]
+tags: [sem1, w10, r, tg]
 categories: []
 date: 2023-07-01T09:58:49+01:00
-weight: 20
+weight: 18
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

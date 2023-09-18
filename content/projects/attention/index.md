@@ -4,7 +4,7 @@
 title: "Attention"
 summary: " "
 authors: []
-tags: [sem1, w8, r]
+tags: [sem1, w8, r, tg]
 categories: []
 date: 2023-07-01T09:58:49+01:00
 weight: 14

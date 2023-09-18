@@ -22,15 +22,15 @@ Week | Tuesday Topic (guide) | Presenter | Day | Time | Thursday topic | Present
 |:---:|:-------------------------------------:|:----------------:|:-----:|:----:|:---------------------------------------------------:|:----------------:|:-----:|:--------:|
 1 | [Intro & Logistics](slides/l1_intro.pdf) |  Neil Bramley | 19/9 | 10&#x2011;11           |  [Presentation Advice & Allocations](slides/l2_presentation.pdf) | Neil Bramley | 21/9  | 10&#x2011;11 |
 2 | [Representation](projects/representation) | Neil Bramley | 26/9 | 10&#x2011;11            | [Processes](projects/processes)  | Neil Bramley |  28/9  | 10-11 |              |
-3 |  [Concepts](projects/concepts) (??)       | ??<br>?? |  3/10  | 10&#x2011;11<br>11&#x2011;12        | [Categorization](projects/categorization) (??)  | ??<br>?? |  5/10  | 10&#x2011;11<br>11&#x2011;12 |
-4 | [Objects & Events](projects/objects) (??) | ??<br>?? |  10/10  | 10&#x2011;11<br>11&#x2011;12 | [Inductive Reasoning](projects/induction) (??) | ??<br>?? | 12/10 | 10&#x2011;11<br>11&#x2011;12 |
-5 | [Causality](projects/causality) (??)      | ??<br>?? |  17/10  | 10&#x2011;11<br>11&#x2011;12      |  [Physical Reasoning](projects/physics) (??)   | ??<br>?? | 19/10 | 10&#x2011;11<br>11&#x2011;12 |
-6 | [Rationality](projects/rationality) (??)  | ??<br>?? |  24/10  | 10&#x2011;11<br>11&#x2011;12 | [Development & Learning](projects/development) (??)  | ??<br>?? | 26/10  | 10&#x2011;11<br>11&#x2011;12 |
-7 | [Time](projects/time) (??)            | ??<br>?? |  31/10 | 10&#x2011;11<br>11&#x2011;12 | [Decision Making](projects/decision) (??) | ??<br>?? |  2/11  | 10&#x2011;11<br>11&#x2011;12 |
-8 | [Number](projects/number) (??)            | ??<br>?? |  2/11 | 10&#x2011;11<br>11&#x2011;12 | [Attention](projects/attention) (??) | ??<br>?? |  9/11  | 10&#x2011;11<br>11&#x2011;12 |
-9 | [Space](projects/space) (??)              | ??<br>?? |  7/11  | 10&#x2011;11<br>11&#x2011;12 | [Memory](projects/memory) (??)  | ??<br>?? | 16/11  | 10&#x2011;11<br>11&#x2011;12 |
-10 | [Theory of Mind](projects/tom) (??)      | ??<br>?? |  14/11  | 10&#x2011;11<br>11&#x2011;12 |  [Analogical Reasoning](projects/analogy) (??)  | ??<br>?? | 23/11 | 10&#x2011;11<br>11&#x2011;12 |
-11 | [Ecology](projects/ecology) (??)         | ??<br>?? |  21/11  | 10&#x2011;11<br>11&#x2011;12 | [Expertise](projects/expertise) (??)  | ??<br>?? | 30/11 | 10&#x2011;11<br>11&#x2011;12 |
+3 |  [Concepts](projects/concepts) (NB)       | ??<br>?? |  3/10  | 10&#x2011;11<br>11&#x2011;12        | [Categorization](projects/categorization) (TG)  | ??<br>?? |  5/10  | 10&#x2011;11<br>11&#x2011;12 |
+4 | [Objects & Events](projects/objects) (NB) | ??<br>?? |  10/10  | 10&#x2011;11<br>11&#x2011;12 | [Inductive Reasoning](projects/induction) (TG) | ??<br>?? | 12/10 | 10&#x2011;11<br>11&#x2011;12 |
+5 | [Causality](projects/causality) (NB)      | ??<br>?? |  17/10  | 10&#x2011;11<br>11&#x2011;12      |  [Physical Reasoning](projects/physics) (TG)   | ??<br>?? | 19/10 | 10&#x2011;11<br>11&#x2011;12 |
+6 | [Rationality](projects/rationality) (NB)  | ??<br>?? |  24/10  | 10&#x2011;11<br>11&#x2011;12 | [Development & Learning](projects/development) (TG)  | ??<br>?? | 26/10  | 10&#x2011;11<br>11&#x2011;12 |
+7 | [Time](projects/time) (NB)                | ??<br>?? |  31/10 | 10&#x2011;11<br>11&#x2011;12 | [Decision Making](projects/decision) (TG) | ??<br>?? |  2/11  | 10&#x2011;11<br>11&#x2011;12 |
+8 | [Number](projects/number) (NB)            | ??<br>?? |  7/11 | 10&#x2011;11<br>11&#x2011;12 | [Attention](projects/attention) (TG) | ??<br>?? |  9/11  | 10&#x2011;11<br>11&#x2011;12 |
+9 | [Space](projects/space) (TG)              | ??<br>?? |  14/11  | 10&#x2011;11<br>11&#x2011;12 | [Memory](projects/memory) (NB)  | ??<br>?? | 16/11  | 10&#x2011;11<br>11&#x2011;12 |
+10 | [Theory of Mind](projects/tom) (NB)      | ??<br>?? |  21/11  | 10&#x2011;11<br>11&#x2011;12 |  [Analogical Reasoning](projects/analogy) (TG)  | ??<br>?? | 23/11 | 10&#x2011;11<br>11&#x2011;12 |
+11 | [Ecology](projects/ecology) (NB)         | ??<br>?? |  28/11  | 10&#x2011;11<br>11&#x2011;12 | [Expertise](projects/expertise) (TG)  | ??<br>?? | 30/11 | 10&#x2011;11<br>11&#x2011;12 |
 <!-- 12 | [Biological Motion](projects/motion) |  |  |       [Events](projects/events)               |        |  | | -->
 
 

@@ -4,7 +4,7 @@
 title: "Concepts"
 summary: " "
 authors: []
-tags: [sem1, w3, t]
+tags: [sem1, w3, t, nb]
 categories: []
 date: 2023-07-01T09:58:49+01:00
 weight: 3
