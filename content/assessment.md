@@ -35,15 +35,15 @@ All work submitted for assessment in this course should be carried out following
 
 </center>
 
-Over the course of each semester, you will build a portfolio of reflections on required papers. Each week, you need to submit two (~100-200 word) entries. An entry should: 
-- assume a reviewer role (see Lecture 1) and/or
+Over the course of each semester, you will build a portfolio of reflections on required papers. Each week, you need to submit two (~100-200 word) entries, one for the Tuesday class and one for the Thursday class. An entry should: 
+- assume a reviewer role (see Lecture 1)
 - briefly summarise the main idea of the article (1-2 sentences), 
-- comment on whether or not you believe the conclusions (1-2 sentences) and 
-- justify your belief (2-5 sentences). 
+- comment on the article 
 
 The goal of the weekly entries are to ensure that you are prepared to participate in class discussions. In class, you will may also be asked to comment on the discussion and state if you revised your belief and why.
+You only need to pick one of the assigned readings to reflect on with your portfolio entry (although you are welcome to comment on both, or take multiple reviewer roles if you like)
 
-Portfolios will be marked at the end of the semester. Two entries can be missing, no questions asked and no detriment to the marks. Otherwise, no extensions.
+Portfolios will be marked at the end of the semester. Five of the 20 entries can be missing, no questions asked and no detriment to the marks. Otherwise, no extensions.
 
 <center>
 
