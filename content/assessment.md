@@ -18,7 +18,7 @@ There are three forms of assessment for this seminar. They break down as follows
 |:--:|:--:|:--:|
 | [Portfolio](#portfolio) (Sem 1) | Weekly | 15% |
 | [Presentation](#presentation) (Sem 1) | Arranged | 0% |
-| [Essay](#essay) | 20 January 2023 | 40% |
+| [Essay](#essay) | 26 January 2024 | 40% |
 | [Portfolio](#portfolio) (Sem 2) | Weekly | 15% |
 | [Presentation](#presentation) (Sem 2) | Arranged | 30% |
 
@@ -55,7 +55,7 @@ Portfolios will be marked at the end of the semester. Five of the 20 entries can
 
 Your essay should be based around one or two papers of your choice on a topic in cognitive modelling. It must discuss empirical findings in the context of a computational model or models to a non specialist audience. The easiest way to do this is to find a single paper that includes both empirical and modelling results, but the paper in question should be very meaty, i.e., fairly long and including many experiments or a thorough comparison with other approaches. If you cannot find a suitable single paper, you can look at two shorter papers covering different models of a single phenomenon, or additional experiments testing the same model. Marking will take into account the difficulty of the chosen article(s)/theme(s), but we find that stronger essays tend to be those that focus on a single article. It's okay to choose an older paper, but in that case you should explain how it relates to more recent work.
 
-You must have your choice of paper(s) approved by **11 November 2023**. Post your intended paper(s) on the Piazza note for essay topics. For help choosing papers, see the tips on the website in the first instance. If you are still having trouble, feel free to contact one of the instructors well before the deadline. Essays may not focus on papers that are the subjects of other student presentations. So make sure to look at the essay note to avoid overlapping topics.
+You must have your choice of paper(s) approved by **11 November 2024**. Post your intended paper(s) on the Piazza note for essay topics. For help choosing papers, see the tips on the website in the first instance. If you are still having trouble, feel free to contact one of the instructors well before the deadline. Essays may not focus on papers that are the subjects of other student presentations. So make sure to look at the essay note to avoid overlapping topics.
 
 Whether you choose one or two main papers, your essay should discuss the context of the work (i.e., behavioural findings or philosophical questions addressed), summarise the model(s) and experiment(s), and critically evaluate the work. A good essay will include some material you get from "reading around" the topic. You may also wish to address one or more of the following questions: how does this work relate to other models/approaches we have studied in class? What questions are raised by this work? What further experimental or modelling work might help to address these questions? Your goal is to demonstrate that you can read a cognitive modelling paper, understand its methods, evaluate its claims and place it in context in the field.
 
