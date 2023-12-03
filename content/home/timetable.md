@@ -30,7 +30,7 @@ Week | Tuesday Topic (guide) | Presenter | Day | Time | Thursday topic | Present
 | 3 | Learning & Memory (NB)  | Paishong Chen;<br> Longbin Ji;<br> Weipu Zhang  | 30/01 | Curiosity & Active Learning (MK) | Xinyi Li;<br> Jialin Xu;<br> Jesse Gill |  01/02 |
 | 4 | Program Induction (NB)  | Lin Liu;<br> Nic Navarre;<br> Chuang Wang  | 06/02 | Language [Grounding & Evolution] (MK) | Meinan Liu;<br> Chunan Li;<br> Adithya Venkatadri Hulagadri  |  08/02 |
 | 5 | Language [Foundations and NLP] (NB) | Yuhan Zheng;<br> Nico Novatore;<br> Artemis Delgianni | 13/02 | Langauge [Bilingualism & Discourse] (MK) | Filippos Vlahos;<br> Eoin Reid;<br>  Zhiyu Yang |  15/02 |
-| 6 | Concepts & Categories (NB) | Chuxiang Luo;<br>Ritsaart Van Blankenstein;<br> Shuqi Ni  | 20/02 | Concepts & Categories (MK) |  Luna Wang;<br> Yiwen Xing  |  22/02 |
+| 6 | Concepts & Categories (NB) | Chuxiang Luo;<br>Ritsaart Van Blankenstein  | 20/02 | Concepts & Categories (MK) |  Luna Wang;<br> Yiwen Xing;<br> Shuqi Ni  |  22/02 |
 | 7 | Social Cognition  (NB) | Serenna Gerhard;<br> Mingyue Jian;<br> Bozhi Jiang  | 27/02 | Social Cognition (MK) | Melina Mueller;<br> Yuanhui Wang;<br> Aowen Xu |  29/02 |
 | 8 | Reasoning  (NB) | Mateusz Wygonny;<br> Zixuan Lin;<br> Sherry Hou  | 05/03 | Reasoning (MK) | Xinyu Li;<br> Julie Pedersen |  07/03 |
 | 9 | Attention  (NB) | Chengkun Cai;<br> Yihan Tang;<br> Zizhe Wang  | 05/03 | - | - |  - |
