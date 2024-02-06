@@ -26,15 +26,15 @@ design:
 | Week  | Tuesday Topic (guide) | Presenter  | Day | Thursday Topic | Presenter  | Day |
 |:-----:|:---------------:|:------------------:|:----------------:|:-------------:|:----:|:----:|
 | 1 | [Model Evaluation](slides/l5_models.pdf) <br> ([Read This](https://pubmed.ncbi.nlm.nih.gov/33482070/#:~:text=The%20inherent%20demands%20of%20computational,build%20explanatory%20and%20predictive%20theories.))  | Neil Bramley  | 16/01 | [Model Evaluation](slides/l5_models.pdf) <br> ([Read This](https://pubmed.ncbi.nlm.nih.gov/33482070/#:~:text=The%20inherent%20demands%20of%20computational,build%20explanatory%20and%20predictive%20theories.)) | Neil Bramley |  18/01 |
-| 2 | Developmental (NB)  | Nabilah;<br> Aishwarya Ashokkumar;<br> Luna Rubio Riquelme | 23/01 | Perceptual and neural (MK) | Alex Chen;<br> Richard Li;<br> Tristan Baujault-Borresen |  25/01 |
-| 3 | Learning & Memory (NB)  | Paishong Chen;<br> Longbin Ji;<br> Weipu Zhang  | 30/01 | Curiosity & Active Learning (MK) | Xinyi Li;<br> Jialin Xu;<br> Jesse Gill |  01/02 |
+| 2 | Developmental (NB)  | Nabilah;<br> Luna Rubio Riquelme | 23/01 | Perceptual and neural (MK) | Alex Chen;<br> Richard Li;<br> Tristan Baujault-Borresen |  25/01 |
+| 3 | Learning & Memory (NB)  | Paizhong Chen;<br> Longbin Ji;<br> Weipu Zhang  | 30/01 | Curiosity & Active Learning (MK) | Xinyi Li;<br> Jialin Xu;<br> Jesse Gill |  01/02 |
 | 4 | Program Induction (NB)  | Lin Liu;<br> Nic Navarre;<br> Chuang Wang  | 06/02 | Language [Grounding & Evolution] (MK) | Meinan Liu;<br> Chunan Li;<br> Adithya Venkatadri Hulagadri  |  08/02 |
 | 5 | Language [Foundations & NLP] (NB) | Yuhan Zheng;<br> Nico Novatore;<br> Artemis Delgianni | 13/02 | Langauge [Bilingualism & Discourse] (MK) | Filippos Vlahos;<br> Eoin Reid;<br>  Zhiyu Yang |  15/02 |
-| 6 | Concepts & Categories (NB) | Chuxiang Luo;<br>Ritsaart Van Blankenstein  | 20/02 | Concepts & Categories (NB) |  Luna Wang;<br> Yiwen Xing;<br> Shuqi Ni  |  22/02 |
+| 6 | READING WEEK | READING WEEK  | 20/02 | READING WEEK |  READING WEEK  |  22/02 |
 | 7 | Social Cognition  (NB) | Serenna Gerhard;<br> Mingyue Jian;<br> Bozhi Jiang  | 27/02 | Social Cognition (MK) | Melina Mueller;<br> Yuanhui Wang;<br> Aowen Xu |  29/02 |
 | 8 | Reasoning  (NB) | Mateusz Wygonny;<br> Zixuan Lin;<br> Sherry Hou  | 05/03 | Reasoning (MK) | Xinyu Li;<br> Julie Pedersen |  07/03 |
-| 9 | Attention  (MK) | Chengkun Cai;<br> Yihan Tang;<br> Zizhe Wang  | 12/03 | - | - |  - |
-
+| 9 | Attention  (MK) | Chengkun Cai;<br> Yihan Tang;<br> Zizhe Wang  | 12/03 | Concepts & Categories (NB) |  Luna Wang;<br> Yiwen Xing;<br> Shuqi Ni  |  14/03 |
+| 10 | Concepts & Categories (NB) | Chuxiang Luo;<br>Ritsaart Van Blankenstein;<br> Aishwarya Ashokkumar  | 19/03 | - | - |  - |
  
 
 
